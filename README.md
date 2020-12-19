@@ -7,18 +7,18 @@
 Hi there, I am Davinder Singh a full stack web developer (as an intern at CodeYourFuture). I am familiar with coding since 2015 and have worked on different languages. 
 
 I am currenlty familiar with all these languagues:
-c
-c++
-Java
-JavaScript
-MATLAB
-HTML
-CSS
-SQL
-REACT
-NODE
+ c,
+c++,
+Java,
+JavaScript,
+MATLAB,
+HTML,
+CSS,
+SQL,
+REACT,
+NODE.
 
-and look forward to gain more skills in my day to day life, coding life has been an amazing journey which has helpe me to find myself in a place where I can put my knowledge into real world problems.
+I look forward to gain more skills in my day to day life, coding life has been an amazing journey which has helpe me to find myself in a place where I can put my knowledge into real world problems.
 
 <!--
 **davibaweja/davibaweja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
