@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
 ![Davinder's Github stats](https://github-readme-stats.vercel.app/api?username=davibaweja&theme=vue-dark&show_icons=true&count_private=true)
 
