@@ -2,7 +2,7 @@
 
 ![Davinder's Github stats](https://github-readme-stats.vercel.app/api?username=davibaweja&theme=vue-dark&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibaweja&langs_count=8)](https://github.com/davibaweja/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibaweja&langs_count=8&theme=vue-dark)](https://github.com/davibaweja/github-readme-stats)
 
 I am a full stack web developer, working as an intern at CodeYourFuture
 
