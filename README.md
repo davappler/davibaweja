@@ -18,7 +18,7 @@ SQL,
 REACT,
 NODE.
 
-I look forward to gain more skills in my day to day life, coding life has been an amazing journey which has helpe me to find myself in a place where I can put my knowledge into real world problems.
+I look forward to gain more skills in my day to day life, coding life has been an amazing journey which has helped me to find myself in a place where I can put my knowledge into real world problems.
 
 <!--
 **davibaweja/davibaweja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
