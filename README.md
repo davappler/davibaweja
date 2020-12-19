@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibaweja&langs_count=8&theme=vue-dark)](https://github.com/davibaweja/github-readme-stats)
 
-Hi there, I am Davinder Singh a full stack web developer (as an intern at CodeYourFuture). I am familiar with coding since 2015 and have worked on different languages. 
+Hi there, I am Davinder Singh a full stack web developer (as an intern at CodeYourFuture). I am familiar with coding since 2015 and have worked on different languages and projects.
 
 I am currenlty familiar with all these languagues:
  c,
