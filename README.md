@@ -2,7 +2,7 @@
 
 ![Davinder's Github stats](https://github-readme-stats.vercel.app/api?username=davibaweja&theme=vue-dark&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibaweja&langs_count=8&theme=vue-dark)](https://github.com/davibaweja/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibaweja&langs_count=8&theme=vue-dark)](https://github.com/davibaweja/github-readme-stats) -->
 
 Hi there, I am Davinder Singh working as a software engineer. I am a full time developer and a part time musician, I like to take some time away from coding and explore nature and music. I look forward to gain more skills in my day to day life, coding life has been an amazing journey which has helped me to find myself in a place where I can put my knowledge into real world problems.
 
